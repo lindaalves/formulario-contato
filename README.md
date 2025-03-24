@@ -6,7 +6,6 @@ Este é um projeto de um **formulário de contato** responsivo, desenvolvido com
 - ✉️ Formulário de contato com campos: Nome, E-mail, Telefone, Assunto e Mensagem.
 - 🌍 Design responsivo para diferentes dispositivos.
 - ✨ Modo escuro ativado por botão.
-- 📃 Armazena mensagens no LocalStorage para consulta posterior.
 - ⏳ Botão para limpar o formulário rapidamente.
 
 ## 📚 Tecnologias Utilizadas
@@ -48,6 +47,6 @@ Caso tenha sugestões ou precise de ajuda, entre em contato!
 
 ---
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario). ✨
+Desenvolvido por Linda Alves. ✨
 
 
