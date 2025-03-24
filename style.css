@@ -9,6 +9,18 @@ body {
   align-items: center;
   height: 100vh;
 }
+/* Botão modo escuro*/
+.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.dark-mode input,
+.dark-mode textarea {
+  background-color: #333;
+  color: white;
+  border: 1px solid #666;
+}
 
 /* Container do formulário */
 .container {
