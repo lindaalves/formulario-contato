@@ -24,19 +24,6 @@ Este é um projeto de um **formulário de contato** responsivo, desenvolvido com
    ```
 3. **Abra o arquivo `index.html` no navegador.**
 
-## 🌟 Como Publicar no GitHub Pages
-1. **Envie o projeto para o GitHub:**
-   ```sh
-   git add .
-   git commit -m "Primeira versão do formulário"
-   git push origin main
-   ```
-2. **Ative o GitHub Pages:**
-   - Acesse seu repositório no GitHub.
-   - Vá em **Settings** > **Pages**.
-   - Em **Source**, selecione "main" e salve.
-   - Acesse a URL gerada: `https://seu-usuario.github.io/formulario-contato/`
-
 ## 🛠 Melhorias Futuras
 - 📄 Integração com um backend para envio de mensagens via e-mail.
 - 🌐 Melhorias na acessibilidade (uso adequado de ARIA e foco em teclado).
